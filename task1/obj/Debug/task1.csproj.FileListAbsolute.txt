@@ -1,0 +1,6 @@
+C:\Users\rAbOtA\Documents\SharpDevelop Projects\task1\task1\obj\Debug\task1.csprojResolveAssemblyReference.cache
+C:\Users\rAbOtA\Documents\SharpDevelop Projects\task1\task1\bin\Debug\task1.exe.config
+C:\Users\rAbOtA\Documents\SharpDevelop Projects\task1\task1\bin\Debug\task1.exe
+C:\Users\rAbOtA\Documents\SharpDevelop Projects\task1\task1\bin\Debug\task1.pdb
+C:\Users\rAbOtA\Documents\SharpDevelop Projects\task1\task1\obj\Debug\task1.exe
+C:\Users\rAbOtA\Documents\SharpDevelop Projects\task1\task1\obj\Debug\task1.pdb
